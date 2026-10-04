@@ -12,7 +12,7 @@
 
 \*\*Target Trajectory:\*\* Berna R8–R12
 
-\*\*Author:\*\* \[Author Name]
+\*\*Author:\*\* \Muhamed Kamil
 
 \*\*Date:\*\* October 2026
 
