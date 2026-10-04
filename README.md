@@ -17,13 +17,13 @@ tags:
 pretty_name: The Sixth Encompassing Dimension
 ---
 
-# The Sixth Encompassing Dimension — Perna R7
+# The Sixth Encompassing Dimension — Berna R7
 
 A mathematical-cognitive theory for integrating the five dimensions through a sixth encompassing dimension.
 
 ## Overview
 
-This repository hosts **Perna R7** of the **Sixth Encompassing Dimension Theory (SEDT)** — an ambitious theoretical proposal that formalizes the sixth dimension as a compression, encoding, and abductive inference operator. The theory is built on sheaf theory, category theory, and latent-space representation, with the complete graph K6 (6 vertices, 15 relations) as its structural core.
+This repository hosts **Berna R7** of the **Sixth Encompassing Dimension Theory (SEDT)** — an ambitious theoretical proposal that formalizes the sixth dimension as a compression, encoding, and abductive inference operator. The theory is built on sheaf theory, category theory, and latent-space representation, with the complete graph K6 (6 vertices, 15 relations) as its structural core.
 
 ## Contents
 
@@ -35,9 +35,9 @@ This repository hosts **Perna R7** of the **Sixth Encompassing Dimension Theory 
 
 ## Status
 
-- **Version:** Perna R7
+- **Version:** Berna R7
 - **Type:** Ambitious Theoretical Proposal
-- **Target Trajectory:** Perna R8–R12
+- **Target Trajectory:** Berna R8–R12
 - **License:** CC BY 4.0
 
 ## Roadmap
@@ -58,11 +58,11 @@ If you use this work, please cite:
       title        = {The Sixth Encompassing Dimension},
       author       = {Muhamed Kamil},
       year         = {2026},
-      version      = {Perna R7},
+      version      = {Berna R7},
       license      = {CC BY 4.0},
       url          = {https://huggingface.co/muhamedkamil/sixth-encompassing-dimension}
     }
 
 ---
 
-**End of Model Card — Perna R7**
+**End of Model Card — Berna R7**

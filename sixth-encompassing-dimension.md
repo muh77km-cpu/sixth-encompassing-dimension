@@ -6,11 +6,11 @@
 
 
 
-\*\*Version:\*\* Perna R7
+\*\*Version:\*\* Berna R7
 
 \*\*Release Type:\*\* Ambitious Theoretical Proposal
 
-\*\*Target Trajectory:\*\* Perna R8–R12
+\*\*Target Trajectory:\*\* Berna R8–R12
 
 \*\*Author:\*\* \[Author Name]
 
@@ -614,7 +614,7 @@ Open questions remain: How are C, E, A precisely defined? How are w\_ij and r\_i
 
 
 
-\## Appendix A: Perna R7 Release Notes
+\## Appendix A: Berna R7 Release Notes
 
 
 
@@ -628,7 +628,7 @@ Open questions remain: How are C, E, A precisely defined? How are w\_ij and r\_i
 
 \*\*Audience:\*\* Interdisciplinary researchers in epistemology, cognitive science, mathematics, physics, AI, and medicine.
 
-\*\*Next Step:\*\* Perna R8–R12 roadmap.
+\*\*Next Step:\*\* Berna R8–R12 roadmap.
 
 
 
@@ -636,7 +636,7 @@ Open questions remain: How are C, E, A precisely defined? How are w\_ij and r\_i
 
 
 
-\## Appendix B: Perna R8–R12 Roadmap
+\## Appendix B: Berna R8–R12 Roadmap
 
 
 
@@ -660,5 +660,5 @@ Open questions remain: How are C, E, A precisely defined? How are w\_ij and r\_i
 
 
 
-\*\*End of Paper — Perna R7\*\*
+\*\*End of Paper — Berna R7\*\*
 
